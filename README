@@ -1,0 +1,5 @@
+The code that I have written for JHU and Manhattan GMAT cannot be publicly posted on Git Hub.
+
+Instead, I have posted a script that I am not only proud of but exemplifies much of my programming experience: jump in and solve a new problem with a new software tool.  A researcher at the JHU School of Medicine had thousands of polysomnographic studies (8 hours of EEG/ECG/EMG/EOG/SAO2 signals) but the data was trapped in a proprietary binary format.  The software had a GUI that allowed the export of each signal individually and this researcher planned to employ someone to point, click, and export his or her way through the entire data set (months of time). Instead, I volunteered to automate the export, found a tool sufficient to the task (AutoHotKey), wrote the automation script and exported the data in two weeks. 
+
+Also included is a 3D, cellular automata model of the electrical activity of the human heart in C.  The original model is contained in sim3D.c.  After implementing numerous optimizations (subsequent files), I was able to decrease execution time by two orders of magnitude. 
